@@ -1,0 +1,11 @@
+artists-data.csv
+lyrics-data.csv
+/Data
+data_test_input.npy
+data_test_target.npy
+data_train_input.npy
+data_train_target.npy
+data_validation_input.npy
+data_validation_target.npy
+data_json
+lyrics4genresAllLanguages.h5
