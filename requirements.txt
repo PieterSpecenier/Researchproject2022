@@ -1,0 +1,12 @@
+tensorflow
+tensorflow-gpu
+flask
+numpy
+pandas
+librosa
+pylab
+matplotlib
+sklearn
+keras
+pickle
+seaborn
